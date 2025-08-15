@@ -1,0 +1,19 @@
+# COVID-19 Global Data Tracker
+Project Description
+A Python-based data analysis project tracking global COVID-19 trends including cases, deaths, recoveries, and vaccinations. Processes real-world data from Our World in Data to generate visualizations and insights.
+ Objectives
+✔ Import and clean COVID-19 global data  
+✔ Analyze time trends (cases, deaths, vaccinations)  
+✔ Compare metrics across countries/regions  
+✔ Visualize trends with interactive charts  
+✔ Generate actionable insights from pandemic data
+Tools Libraries
+- **Python 3** (with pandas, NumPy)
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Dashboard**: Streamlit (optional)
+- **Data Source**: [Our World in Data](https://ourworldindata.org/covid-cases)
+ How to Run
+ Basic Set
+1. Clone this repository:
+   ```bas
+   git clone https://github.com/yourusername/covid-tracker.git
